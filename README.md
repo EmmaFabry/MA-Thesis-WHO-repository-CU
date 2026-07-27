@@ -13,3 +13,5 @@ To operationalise the dual-track framework—distinguishing between the technica
 analysis_script.py                 # Main Python execution pipeline
 README.md                          # Project documentation
 dataset                            # Local directory for PDF corpus ingestion
+
+The raw .zip corpus (WHO_Project-Dataset_Full.zip) is archived and publicly accessible via Zenodo: https://doi.org/10.5281/zenodo.21631015
